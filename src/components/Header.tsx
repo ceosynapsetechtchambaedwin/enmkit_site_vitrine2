@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import { Menu, X, Zap } from 'lucide-react';
-import Image2  from "./image/Image2.jpg"
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -38,7 +37,7 @@ const Header = () => {
           <Link to="/" className="flex items-center space-x-3 group">
             <div className="relative">
               <div >
-                <img src={Image2} alt='logo' height="60px" width="60px" className="shadow-sm brightness-110"></img>
+                <img src="http://res.cloudinary.com/dwateogqu/image/upload/image_logo" alt='logo' height="60px" width="60px" className="shadow-sm brightness-110"></img>
               </div>
               <div className="absolute inset-0 bg-gradient-to-br from-primary-400 to-secondary-400 rounded-xl blur opacity-30 group-hover:opacity-50 transition-opacity duration-300"></div>
             </div>

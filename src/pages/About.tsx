@@ -1,6 +1,5 @@
 import React from 'react';
 import { Award, Users, Target, Lightbulb, Globe, Heart, Star, Trophy, Rocket, Shield } from 'lucide-react';
-import Image6 from "./images/image6.jpg"
 const About = () => {
   const achievements = [
     {
@@ -175,7 +174,7 @@ const About = () => {
             <div className="relative">
               <div className="aspect-[4/3] bg-gradient-to-br from-primary-100 to-secondary-100 rounded-3xl overflow-hidden shadow-2xl">
                 <img
-                  src={Image6}
+                  src="http://res.cloudinary.com/dwateogqu/image/upload/image2_a_propos"
                   alt="Histoire de 2meTech"
                   className="w-full h-full object-cover"
                 />

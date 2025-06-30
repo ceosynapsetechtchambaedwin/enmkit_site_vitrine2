@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 
-import Image1  from "./images/image7.jpg"
 import { 
   ArrowRight, 
   Smartphone, 
@@ -322,7 +321,7 @@ const Home = () => {
             <div className="relative">
               <div className="aspect-[4/3] bg-gradient-to-br from-primary-100 to-secondary-100 rounded-3xl overflow-hidden shadow-2xl">
                 <img
-                  src={Image1}
+                  src="http://res.cloudinary.com/dwateogqu/image/upload/image_accueil"
                   alt="Équipe 2meTech - Dr Agnès Virginie Tjahe"
                   className="w-full h-full object-cover saturate-150 "
                 />

@@ -1,7 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { Zap, Mail, Phone, MapPin, Linkedin, Facebook, Award, ExternalLink } from 'lucide-react';
-import Image2  from "./image/Image2.jpg"
 
 
 const Footer = () => {
@@ -18,7 +17,7 @@ const Footer = () => {
             <div className="flex items-center space-x-3 mb-6">
               <div className="relative">
                 <div >
-                <img src={Image2} alt='logo' height="50px" width="50px"></img>
+                <img src="http://res.cloudinary.com/dwateogqu/image/upload/image_logo" alt='logo' height="50px" width="50px"></img>
                 </div>
                 <div className="absolute inset-0 bg-gradient-to-br from-primary-400 to-secondary-400 rounded-xl blur opacity-30"></div>
               </div>
