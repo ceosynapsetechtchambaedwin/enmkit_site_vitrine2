@@ -154,9 +154,9 @@ const Home = () => {
                 {/* Main Device Image */}
                 <div className="aspect-square bg-gradient-to-br from-white/10 to-white/5 backdrop-blur-sm rounded-3xl p-8 border border-white/20 shadow-2xl">
                   <img
-                    src={Image1}
+                    src="http://res.cloudinary.com/dwateogqu/image/upload/enmkit"
                     alt="image5"
-                    className="w-full h-full object-cover rounded-2xl saturate-200 "
+                    className="w-full h-full object-cover rounded-2xl saturate-200 contrast-100"
                   />
                 </div>
 

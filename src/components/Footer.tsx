@@ -127,7 +127,7 @@ const Footer = () => {
             </div>
           </div>
         </div>
-        <div className="bg-gradient-to-r from-accent-500/10 to-secondary-500/10 p-4 rounded-xl border border-accent-500/20 mt-5 w-80"   >
+        <div className="bg-gradient-to-r from-accent-500/10 to-secondary-500/10 p-4 rounded-xl border border-accent-500/20 mt-5 w-88"   >
               <div className="flex items-center space-x-3 mb-2">
                 <span className="text-accent-400 font-semibold">Nos partenaires</span>
               </div>
