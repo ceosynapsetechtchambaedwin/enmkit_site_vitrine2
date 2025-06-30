@@ -102,7 +102,7 @@ const Contact = () => {
   ];
 
   const services = [
-    "Installation EnmKit",
+    "Installation EnMKit",
     "Démonstration produit",
     "Support technique",
     "Formation utilisateur",
@@ -143,7 +143,7 @@ const Contact = () => {
             
             <p className="text-xl md:text-2xl text-white/80 max-w-4xl mx-auto leading-relaxed">
               Notre équipe d'experts est à votre disposition pour répondre à toutes vos questions 
-              sur EnmKit et vous accompagner dans votre transition énergétique.
+              sur EnMKit et vous accompagner dans votre transition énergétique.
             </p>
           </div>
         </div>
@@ -421,7 +421,7 @@ const Contact = () => {
                   </h3>
                 </div>
                 <p className="text-red-700 mb-6 leading-relaxed">
-                  Pour les problèmes techniques urgents avec votre installation EnmKit
+                  Pour les problèmes techniques urgents avec votre installation EnMKit
                 </p>
                 <a
                   href="tel:+237"
@@ -441,7 +441,7 @@ const Contact = () => {
                   </h3>
                 </div>
                 <p className="text-accent-700 mb-6 leading-relaxed">
-                  Planifiez une démonstration EnmKit adaptée à vos besoins spécifiques
+                  Planifiez une démonstration EnMKit adaptée à vos besoins spécifiques
                 </p>
                 <button className="inline-flex items-center px-6 py-3 bg-accent-600 text-white rounded-xl hover:bg-accent-700 transition-all duration-300 font-semibold">
                   <Zap className="h-5 w-5 mr-2" />
@@ -468,7 +468,7 @@ const Contact = () => {
               </span>
             </h2>
             <p className="text-xl text-neutral-600 max-w-3xl mx-auto leading-relaxed">
-              Rendez-vous dans nos bureaux pour une démonstration personnalisée d'EnmKit 
+              Rendez-vous dans nos bureaux pour une démonstration personnalisée d'EnMKit 
               et découvrir notre showroom technologique.
             </p>
           </div>
@@ -542,7 +542,7 @@ const Contact = () => {
               },
               {
                 question: "Retour sur investissement ?",
-                answer: "Retour sur investissement moyen de 6-8 mois grâce aux économies d'énergie réalisées avec EnmKit.",
+                answer: "Retour sur investissement moyen de 6-8 mois grâce aux économies d'énergie réalisées avec EnMKit.",
                 icon: <TrendingUp className="h-6 w-6 text-accent-600" />
               }
             ].map((faq, index) => (

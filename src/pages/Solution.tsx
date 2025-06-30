@@ -131,7 +131,7 @@ const Solution = () => {
           <div className="text-center mb-16">
             <div className="inline-flex items-center space-x-2 bg-white/10 backdrop-blur-sm border border-white/20 rounded-full px-4 py-2 mb-8">
               <Zap className="h-4 w-4 text-accent-400" />
-              <span className="text-white/90 text-sm font-medium">Solution EnmKit</span>
+              <span className="text-white/90 text-sm font-medium">Solution EnMKit</span>
             </div>
             
             <h1 className="text-5xl md:text-7xl font-bold text-white leading-tight mb-8">
@@ -143,7 +143,7 @@ const Solution = () => {
             </h1>
             
             <p className="text-xl md:text-2xl text-white/80 max-w-4xl mx-auto leading-relaxed mb-12">
-              EnmKit combine monitoring avancé, contrôle intelligent et IA pour transformer 
+              EnMKit combine monitoring avancé, contrôle intelligent et IA pour transformer 
               votre relation avec l'énergie. Une technologie de pointe développée au Cameroun.
             </p>
 
@@ -171,7 +171,7 @@ const Solution = () => {
             <div className="aspect-video bg-gradient-to-br from-white/10 to-white/5 backdrop-blur-sm rounded-3xl border border-white/20 shadow-2xl overflow-hidden">
               <img
                 src="https://images.pexels.com/photos/8294616/pexels-photo-8294616.jpeg?auto=compress&cs=tinysrgb&w=1200"
-                alt="EnmKit Dashboard Interface"
+                alt="EnMKit Dashboard Interface"
                 className="w-full h-full object-cover"
               />
             </div>
@@ -215,11 +215,11 @@ const Solution = () => {
             <h2 className="text-4xl md:text-5xl font-bold text-neutral-900 mb-6">
               Les problèmes que résout{' '}
               <span className="bg-gradient-to-r from-primary-600 to-secondary-600 bg-clip-text text-transparent">
-                EnmKit
+                EnMKit
               </span>
             </h2>
             <p className="text-xl text-neutral-600 max-w-3xl mx-auto leading-relaxed">
-              EnmKit s'attaque aux défis majeurs de la gestion énergétique domestique 
+              EnMKit s'attaque aux défis majeurs de la gestion énergétique domestique 
               en Afrique avec des solutions technologiques de pointe.
             </p>
           </div>
@@ -265,7 +265,7 @@ const Solution = () => {
               </span>
             </h2>
             <p className="text-xl text-neutral-600 max-w-3xl mx-auto leading-relaxed">
-              EnmKit intègre les dernières innovations en IoT, IA et analyse de données 
+              EnMKit intègre les dernières innovations en IoT, IA et analyse de données 
               pour vous offrir une expérience énergétique inégalée.
             </p>
           </div>
@@ -319,7 +319,7 @@ const Solution = () => {
           <div className="grid md:grid-cols-4 gap-8">
             {[
               { step: "01", title: "Diagnostic", description: "Analyse de votre installation électrique" },
-              { step: "02", title: "Installation", description: "Pose du dispositif EnmKit par nos experts" },
+              { step: "02", title: "Installation", description: "Pose du dispositif EnMKit par nos experts" },
               { step: "03", title: "Configuration", description: "Paramétrage et connexion à l'application" },
               { step: "04", title: "Formation", description: "Prise en main et optimisation personnalisée" }
             ].map((item, index) => (

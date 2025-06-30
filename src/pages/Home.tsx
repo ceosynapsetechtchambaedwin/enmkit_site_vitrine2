@@ -103,7 +103,7 @@ const Home = () => {
                   </span>{' '}
                   avec{' '}
                   <span className="bg-gradient-to-r from-primary-400 to-secondary-400 bg-clip-text text-transparent">
-                    EnmKit
+                    EnMKit
                   </span>
                 </h1>
                 <p className="text-xl md:text-2xl text-white/80 leading-relaxed max-w-2xl">
@@ -118,7 +118,7 @@ const Home = () => {
                   to="/solution"
                   className="group inline-flex items-center px-8 py-4 bg-gradient-to-r from-primary-600 to-secondary-600 text-white font-semibold rounded-2xl hover:from-primary-700 hover:to-secondary-700 transition-all duration-300 shadow-2xl hover:shadow-primary-500/25 hover:scale-105"
                 >
-                  Découvrez EnmKit
+                  Découvrez EnMKit
                   <ArrowRight className="ml-3 h-5 w-5 group-hover:translate-x-1 transition-transform" />
                 </Link>
                 <Link
@@ -237,7 +237,7 @@ const Home = () => {
             <h2 className="text-4xl md:text-5xl font-bold text-neutral-900 mb-6">
               Pourquoi choisir{' '}
               <span className="bg-gradient-to-r from-primary-600 to-secondary-600 bg-clip-text text-transparent">
-                EnmKit
+                EnMKit
               </span>{' '}
               ?
             </h2>
@@ -365,7 +365,7 @@ const Home = () => {
             </h2>
             
             <p className="text-xl text-white/80 max-w-2xl mx-auto leading-relaxed">
-              Rejoignez les milliers de foyers qui économisent déjà avec EnmKit. 
+              Rejoignez les milliers de foyers qui économisent déjà avec EnMKit. 
               L'avenir énergétique commence aujourd'hui.
             </p>
             
@@ -381,7 +381,7 @@ const Home = () => {
                 to="/solution"
                 className="inline-flex items-center px-8 py-4 bg-transparent text-white font-semibold rounded-2xl border-2 border-white/30 hover:bg-white/10 hover:border-white/50 transition-all duration-300"
               >
-                Explorer EnmKit
+                Explorer EnMKit
               </Link>
             </div>
           </div>

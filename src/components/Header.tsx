@@ -10,7 +10,7 @@ const Header = () => {
 
   const navigation = [
     { name: 'Accueil', href: '/' },
-    { name: 'Solution EnmKit', href: '/solution' },
+    { name: 'Solution EnMKit', href: '/solution' },
     { name: 'À propos', href: '/about' },
     { name: 'Témoignages', href: '/testimonials' },
     { name: 'Contact', href: '/contact' },

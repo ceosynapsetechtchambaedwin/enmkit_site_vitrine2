@@ -31,7 +31,7 @@ const Footer = () => {
             </div>
             
             <p className="text-neutral-300 mb-8 max-w-md leading-relaxed">
-              EnmKit, la solution camerounaise primée POESAM 2024 pour un contrôle intelligent 
+              EnMKit, la solution camerounaise primée POESAM 2024 pour un contrôle intelligent 
               de votre consommation électrique. Innovation africaine, impact mondial.
             </p>
 
@@ -69,7 +69,7 @@ const Footer = () => {
             <ul className="space-y-3">
               {[
                 { name: 'Accueil', href: '/' },
-                { name: 'Solution EnmKit', href: '/solution' },
+                { name: 'Solution EnMKit', href: '/solution' },
                 { name: 'À propos', href: '/about' },
                 { name: 'Témoignages', href: '/testimonials' },
                 { name: 'Contact', href: '/contact' },
