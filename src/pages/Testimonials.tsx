@@ -181,7 +181,7 @@ const Testimonials = () => {
                 </div>
 
                 <div className="flex items-start space-x-4 mb-6">
-                  <div className="w-12 h-12 rounded-full bg-purple-700 text-white flex items-center justify-center text-lg font-bold">
+                  <div className="w-12 h-12 rounded-full bg-gradient-to-r from-primary-600 to-secondary-500 text-primary-700 text-white flex items-center justify-center text-lg font-bold">
                       {getInitials(testimonial.name)} {/* ou item.info si c'est un nom complet */}
                   </div>
 
