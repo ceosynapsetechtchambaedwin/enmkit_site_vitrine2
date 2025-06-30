@@ -324,7 +324,7 @@ const Home = () => {
                 <img
                   src={Image1}
                   alt="Équipe 2meTech - Dr Agnès Virginie Tjahe"
-                  className="w-full h-full object-cover saturate-200 "
+                  className="w-full h-full object-cover saturate-150 "
                 />
               </div>
               

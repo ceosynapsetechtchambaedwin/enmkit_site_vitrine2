@@ -51,7 +51,7 @@ const About = () => {
     {
       name: "Dr Agnès Virginie Tjahe",
       role: "Fondatrice & CEO",
-      image: "https://images.app.goo.gl/aGB5eBPNkQsv32wq7",
+      image: "http://res.cloudinary.com/dwateogqu/image/upload/image_a_propos",
       description: "Docteure en génie électrique, experte en systèmes énergétiques intelligents et lauréate POESAM 2024",
       achievements: ["PhD Génie Électrique", "Lauréate POESAM 2024", "5+ ans d'expérience"],
       gradient: "from-primary-500 to-secondary-500"
@@ -59,7 +59,7 @@ const About = () => {
     {
       name: "Expert Tech Senior",
       role: "CTO & Co-fondateur",
-      image: "https://images.app.goo.gl/aGB5eBPNkQsv32wq7",
+      image: "http://res.cloudinary.com/dwateogqu/image/upload/image_a_propos",
       description: "Spécialiste IoT et développement de systèmes embarqués avec expertise internationale",
       achievements: ["Expert IoT", "Systèmes embarqués", "Innovation tech"],
       gradient: "from-secondary-500 to-accent-500"
@@ -67,7 +67,7 @@ const About = () => {
     {
       name: "Dr Agnès Virginie Tjahe",
       role: "Fondatrice & CEO",
-      image: "https://images.app.goo.gl/aGB5eBPNkQsv32wq7",
+      image: "http://res.cloudinary.com/dwateogqu/image/upload/image_a_propos",
       description: "Docteure en génie électrique, experte en systèmes énergétiques intelligents et lauréate POESAM 2024",
       achievements: ["PhD Génie Électrique", "Lauréate POESAM 2024"],
       gradient: "from-primary-500 to-secondary-500"
@@ -75,7 +75,7 @@ const About = () => {
     {
       name: "Responsable Informatique",
       role: "Head of Innovation",
-      image: "https://images.app.goo.gl/aGB5eBPNkQsv32wq7",
+      image: "http://res.cloudinary.com/dwateogqu/image/upload/image_a_propos",
       description: "Experte en recherche et développement de solutions énergétiques durables",
       achievements: ["R&D énergétique", "Solutions durables", "Innovation continue"],
       gradient: "from-accent-500 to-primary-500"
