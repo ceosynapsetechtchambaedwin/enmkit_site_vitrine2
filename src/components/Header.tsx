@@ -13,6 +13,8 @@ const Header = () => {
     { name: 'À propos', href: '/about' },
     { name: 'Témoignages', href: '/testimonials' },
     { name: 'Contact', href: '/contact' },
+    { name: 'Nos Partenaires', href: '/partners' },
+    { name: 'Installateurs', href: '/installateur' },
   ];
 
   useEffect(() => {

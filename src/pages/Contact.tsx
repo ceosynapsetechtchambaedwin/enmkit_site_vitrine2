@@ -70,10 +70,10 @@ const Contact = () => {
     {
       icon: <Phone className="h-6 w-6" />,
       title: "Téléphone",
-      info: "+237 673 398 046",
+      info: "+237 696 372 245",
       description: "Lun-Ven, 8h-18h",
       gradient: "from-primary-500 to-primary-600",
-      action:<a href='https://wa.me/237673398046' target='_blank'>Envoyer un message</a> 
+      action:<a href='https://wa.me/237696372245' target='_blank'>Envoyer un message</a> 
     },
     {
       icon: <Mail className="h-6 w-6" />,
@@ -367,7 +367,7 @@ const Contact = () => {
                     </div>
                     <div>
                       <div className="font-semibold text-neutral-900">Appel direct</div>
-                      <div className="text-sm text-neutral-600">+237 673 398 046</div>
+                      <div className="text-sm text-neutral-600">+237 696 372 245</div>
                     </div>
                     <ArrowRight className="h-4 w-4 text-neutral-400 group-hover:text-primary-600 group-hover:translate-x-1 transition-all" />
                   </a>

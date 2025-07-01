@@ -13,7 +13,7 @@ const About = () => {
       icon: <Heart className="h-8 w-8" />,
       title: "Prix spécial féminin",
       description: "Célébration du leadership féminin dans la tech africaine",
-      gradient: "from-primary-500 to-primary-600",
+      gradient: "from-pink-400 to-pink-500",
       highlight: "Leadership féminin"
     },
     {
@@ -22,6 +22,20 @@ const About = () => {
       description: "Sélectionnée parmi les 7 startups d'excellence du programme d'accélération",
       gradient: "from-secondary-500 to-secondary-600",
       highlight: "Top 7 startups"
+    },
+    {
+      icon: <Lightbulb className="h-8 w-8" />,
+      title: "Design challenge YALI Pretoria",
+      description: "Récompense pour la meilleure solution co-créée dans un défi panafricain d'innovation sociale",
+      gradient: " from-primary-500 to-primary-600",
+      highlight: "Lauréat innovation collaborative"
+    },
+    {
+      icon: <Award className="h-8 w-8" />,
+      title: "Startupper of the year by TotalEnergie",
+      description: "Distinction pour les jeunes entrepreneurs à fort impact dans leur pays",
+      gradient: "bg-gradient-to-r from-secondary-600 to-secondary-500",
+      highlight: "Prix national de l'entrepreneuriat"
     }
   ];
 

@@ -72,6 +72,8 @@ const Footer = () => {
                 { name: 'À propos', href: '/about' },
                 { name: 'Témoignages', href: '/testimonials' },
                 { name: 'Contact', href: '/contact' },
+                { name: 'Nos Partenaires', href: '/partners' },
+                { name: 'Installateurs', href: '/installateur' },
               ].map((item) => (
                 <li key={item.name}>
                   <Link 
@@ -94,7 +96,7 @@ const Footer = () => {
                 <div className="bg-neutral-800 p-2 rounded-lg group-hover:bg-primary-600 transition-colors duration-300">
                   <Phone className="h-4 w-4 text-primary-400 group-hover:text-white" />
                 </div>
-                <span className="text-neutral-300">+237 673 398 046</span>
+                <span className="text-neutral-300">+237 696 372 245</span>
               </div>
               <div className="flex items-center space-x-3 group">
                 <div className="bg-neutral-800 p-2 rounded-lg group-hover:bg-primary-600 transition-colors duration-300">
@@ -126,15 +128,6 @@ const Footer = () => {
             </div>
           </div>
         </div>
-        <div className="bg-gradient-to-r from-accent-500/10 to-secondary-500/10 p-4 rounded-xl border border-accent-500/20 mt-5 w-88"   >
-              <div className="flex items-center space-x-3 mb-2">
-                <span className="text-accent-400 font-semibold">Nos partenaires</span>
-              </div>
-              <p className="text-sm text-neutral-300">
-                YALI, ORANGE, TotalEnergies, F2E...
-              </p>
-        </div>
-
         {/* Bottom Section */}
         <div className="border-t border-neutral-700/50 mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
