@@ -4,23 +4,26 @@ import {Shield, Award, Trophy, Lightbulb, Globe, AlertTriangle, DollarSign, Zap,
 const Parteners = () =>{
   const Partenaire_info = [
   {
-    icon:"http://res.cloudinary.com/dwateogqu/image/upload/image_totale",
+    icon:"https://drive.google.com/file/d/1qc0ZAoVXuBX_4FUFEXsqerMbCgt5S84G/view?usp=drivesdk",
     title: "TotalEnergies",
+    gradient:"from-500 to-accent-600",
     description: "Lauréat du programme Startupper of the year, EnMKit a bénéficié d'un appui en visibilité, formation et financement pour booster son deploiement",
     highlight: "Soutien financier & entrepreneurial"
   },
   {
+    icon:"https://drive.google.com/file/d/19FYD1G63p44hiP_ObSYWfSuAwuyRu7JM/view?usp=drive_link",
     title: "ORANGE",
     description: "Orange accompagne EnMKit via des infrastructures numériques, facilitant la collecte et la transmission des données en temps réel",
     highlight: "Support technologique"
   },
   {
-    icon:"http://res.cloudinary.com/dwateogqu/image/upload/image_yali",
+    icon:"https://drive.google.com/file/d/1Op99an9IBH7_5EL3Io8oWgEZtUZKO0UF/view?usp=drive_link",
     title: "YALI Pretoria",
     description: "Grâce au Design Challenge remporté, Yali a permis de structurer EnMKit autour d'une démarche centrée sur l'impact social et l'innovation",
     highlight: "Encadrement et innovation"
   },
   {
+    icon:"https://drive.google.com/file/d/1Ll4ZW_fKY3Rl3Rts5VjIe6d5uCvet0Fu/view?usp=drive_link",
     title: "F2E (Fonds d'Equipement et d'Entreprise)",
     description: "F2E soutient EnMKit dans l'expérimentation terrain et les connexions avce les acteurs de l'energie au Cameroun",
     highlight: "Appui local"
