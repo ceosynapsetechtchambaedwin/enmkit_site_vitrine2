@@ -7,26 +7,22 @@ const Parteners = () =>{
     icon:"http://res.cloudinary.com/dwateogqu/image/upload/image_totale",
     title: "TotalEnergies",
     description: "Lauréat du programme Startupper of the year, EnMKit a bénéficié d'un appui en visibilité, formation et financement pour booster son deploiement",
-    gradient: "from-accent-500 to-accent-600",
     highlight: "Soutien financier & entrepreneurial"
   },
   {
     title: "ORANGE",
     description: "Orange accompagne EnMKit via des infrastructures numériques, facilitant la collecte et la transmission des données en temps réel",
-    gradient: "from-accent-500 to-accent-600",
     highlight: "Support technologique"
   },
   {
     icon:"http://res.cloudinary.com/dwateogqu/image/upload/image_yali",
     title: "YALI Pretoria",
     description: "Grâce au Design Challenge remporté, Yali a permis de structurer EnMKit autour d'une démarche centrée sur l'impact social et l'innovation",
-    gradient: "from-accent-500 to-accent-600",
     highlight: "Encadrement et innovation"
   },
   {
     title: "F2E (Fonds d'Equipement et d'Entreprise)",
     description: "F2E soutient EnMKit dans l'expérimentation terrain et les connexions avce les acteurs de l'energie au Cameroun",
-    gradient: "from-accent-500 to-accent-600",
     highlight: "Appui local"
   },
   ]

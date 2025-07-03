@@ -223,7 +223,7 @@ const Contact = () => {
                         placeholder="Votre Localisation"
                       />
                     </div>
-                    <div className="grid md:grid-cols-2 w-300">
+                    <div className="grid md:grid-cols-2 gap-6">
                       <div>
                         <label htmlFor="budget" className="block text-sm font-semibold text-neutral-700 mb-3">
                         Expérience en installation  
@@ -260,6 +260,19 @@ const Contact = () => {
                      </select>
                     </div>
                     <div>
+                        <label htmlFor="image" className="block text-sm font-semibold text-neutral-700 mb-3">
+                            Téléversez votre CV
+                         </label>
+                        <input
+                         type="file"
+                         id="image"
+                         accept="image/*" 
+                         required 
+                         className="w-100%; p-10 w-full px-4 py-4 border border-neutral-300 rounded-xl focus:ring-2 focus:ring-primary-500 focus:border-primary-500 transition-all duration-300 text-lg" 
+                         />
+
+                    </div>
+                    <div>
                       {formData.isCompany === "oui" && (
                       <div>
                         <label htmlFor="company" className="block text-sm font-semibold text-neutral-700 mb-3">
@@ -278,6 +291,7 @@ const Contact = () => {
             )}
 
                     </div>
+                    
                     <div>
                         <label htmlFor="image" className="block text-sm font-semibold text-neutral-700 mb-3">
                             Téléversez votre pièce d'identité
@@ -291,6 +305,7 @@ const Contact = () => {
                          />
 
                     </div>
+                     
                     
                   </div>
 

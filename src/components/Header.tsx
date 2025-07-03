@@ -14,7 +14,7 @@ const Header = () => {
     { name: 'Témoignages', href: '/testimonials' },
     { name: 'Contact', href: '/contact' },
     { name: 'Nos Partenaires', href: '/partners' },
-    { name: 'Installateurs', href: '/installateur' },
+    { name: 'Installateur', href: '/installateur' },
   ];
 
   useEffect(() => {
